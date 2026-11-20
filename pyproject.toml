@@ -1,7 +1,7 @@
 [project]
 name = "cs50-final-project"
 version = "0.1.0"
-description = "Add your description here"
+description = "A simple terminal based 2D robot simulation"
 readme = "README.md"
 authors = [
     { name = "Shabir Ahmad", email = "shabirahmad.tech@gmail.com" }
