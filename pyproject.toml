@@ -1,7 +1,7 @@
 [project]
 name = "cs50-final-project"
 version = "0.1.0"
-description = "A simple terminal based 2D robot simulation"
+description = "A terminal-based Python navigation simulator where a robot moves through a 2D grid arena from a start point to a goal while avoiding obstacles and walls."
 readme = "README.md"
 authors = [
     { name = "Shabir Ahmad", email = "shabirahmad.tech@gmail.com" }
